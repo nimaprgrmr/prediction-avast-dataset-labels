@@ -1,0 +1,1 @@
+This project focus on text proxessing and how to work with json contents with pandas. how to preprocess texts to get ready for machine learning and at the end creating a classification model for classify Avast dataset objects.
